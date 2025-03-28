@@ -1,0 +1,12 @@
+bot-token: "MTM1NTE4MzYwODQzMTc3MTg4OQ.GlRe2K.TGvHyFmtHOu48woWN5mchHbjX6ngABVEv_nCJk"
+channel-id: 1355184254127964314
+
+discord-message-id: null
+server-domen: "d2.rustix.me"
+server-port: 25055
+
+scheduled-commands:
+  - time: "12:00"
+    command: "say Полдень!"
+  - time: "15:00"
+    command: "sosi hui"
