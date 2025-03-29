@@ -38,3 +38,9 @@ scheduled-commands:
     command: "say Наступил полдень!"
   - time: "18:30"
     command: "say 18:30, готовим рестарт через 5 минут..."
+```
+## License
+
+This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) License.
+
+You are free to use, modify, and share this code **for non-commercial purposes only**, as long as you give proper credit to **AlexFirst404**.
