@@ -1,3 +1,9 @@
+![Author: AlexFirst404](https://img.shields.io/badge/author-AlexFirst404-blueviolet)
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
+![Status: Beta](https://img.shields.io/badge/status-beta-yellow.svg)
+![Java](https://img.shields.io/badge/language-Java-blue.svg)
+
+
 # DiscordStatPlugin
 
 **DiscordStatPlugin** – это плагин для [Mohist 1.20.1](https://mohistmc.com/), который поднимает Discord-бота и выводит статистику о Minecraft-сервере в **одном** сообщении в канале Discord. Также плагин умеет выполнять команды по расписанию.
@@ -41,6 +47,6 @@ scheduled-commands:
 ```
 ## License
 
-This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) License.
+This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) License
 
 You are free to use, modify, and share this code **for non-commercial purposes only**, as long as you give proper credit to **AlexFirst404**.
